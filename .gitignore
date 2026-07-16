@@ -1,0 +1,21 @@
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on NTFS volumes
+$RECYCLE.BIN/
+
+# VS Code settings
+.vscode/
+.vs/
+
+# Node modules (if any get added later)
+node_modules/
+
+# Log files
+*.log
